@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MyAdapter</string>
+
+    <array name="CountryName">
+        <item> CountryName1 </item>
+        <item> CountryName2 </item>
+        <item> CountryName3 </item>
+        <item> CountryName4 </item>
+        <item> CountryName5 </item>
+        <item> CountryName6 </item>
+        <item> Azerbaijan7   </item>
+        <item> CountryName8 </item>
+        <item> CountryName9 </item>
+        <item> CountryName10 </item>
+        <item> CountryName11 </item>
+        <item> CountryName12 </item>
+        <item> CountryName13 </item>
+        <item> Azerbaijan14   </item>
+
+    </array>
+
+    <array name="CaptureName">
+        <item> CountryName1 </item>
+        <item> CountryName2 </item>
+        <item> CountryName3 </item>
+        <item> CountryName4 </item>
+        <item> CountryName5 </item>
+        <item> CountryName6 </item>
+        <item> Azerbaijan7   </item>
+        <item> CountryName8 </item>
+        <item> CountryName9 </item>
+        <item> CountryName10 </item>
+        <item> CountryName11 </item>
+        <item> CountryName12 </item>
+        <item> CountryName13 </item>
+        <item> Azerbaijan14   </item>
+
+    </array>
+
+</resources>
